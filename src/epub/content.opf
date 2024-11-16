@@ -44,9 +44,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Alastair-Audley</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A duke takes in a young boy, only to discover that he is actually a noblewoman in disguise.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Justin “Satanas” Alastair, the reclusive Duke of Avon, is known for his ruthless reputation and dark past. One night, while in Paris, the Duke encounters a mistreated street urchin named Léon Bonnard. Taking pity on the boy, the Duke purchases him and makes him a page, unaware that Léon is actually a young woman named Léonie, the daughter of the Comte de Saint-Vire who had once wronged him. Alastair plans to use his new personal servant to get his revenge on an old enemy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.126108</dc:source>
