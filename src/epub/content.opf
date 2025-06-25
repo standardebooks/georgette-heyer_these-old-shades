@@ -57,7 +57,7 @@
 		<dc:creator id="author">Georgette Heyer</dc:creator>
 		<meta property="file-as" refines="#author">Heyer, Georgette</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Georgette_Heyer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79135328</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79135328</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">François Boucher</dc:contributor>
 		<meta property="file-as" refines="#artist">Boucher, François</meta>
