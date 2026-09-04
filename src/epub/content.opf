@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">These Old Shades</dc:title>
 		<meta property="file-as" refines="#title">These Old Shades</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
-		<dc:subject id="subject-2">England -- Social life and customs -- 18th century -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Social life and customs--18th century--Fiction</dc:subject>
 		<dc:subject id="subject-3">Historical fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
